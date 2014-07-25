@@ -1,0 +1,11 @@
+<map id="GtkMainWindow::GtkMainWindow" name="GtkMainWindow::GtkMainWindow">
+<area shape="rect" id="node2" href="$class_gtk_main_window.html#a469215e4acf07cdc542016222bf8f5fd" title="GtkMainWindow::onSecTick" alt="" coords="278,120,466,147"/>
+<area shape="rect" id="node10" href="$class_gtk_main_window.html#ad58f2534912d194b4c78b12239eee854" title="GtkMainWindow::onDestroy" alt="" coords="279,171,465,197"/>
+<area shape="rect" id="node3" href="$class_gtk_torrent_tree_view.html#a76572bd15fc70dc9e9bf4d81e29faafb" title="GtkTorrentTreeView\l::updateCells" alt="" coords="515,5,653,46"/>
+<area shape="rect" id="node5" href="$class_gtk_torrent_info_bar.html#a50816d839264934b02386d9a5a3f1005" title="GtkTorrentInfoBar::\lupdateInfo" alt="" coords="517,113,651,154"/>
+<area shape="rect" id="node9" href="$class_gtk_torrent_tree_view.html#acab863a6e791eb4efa0e07c064fe6e95" title="GtkTorrentTreeView\l::getFirstSelected" alt="" coords="515,195,653,237"/>
+<area shape="rect" id="node4" href="$class_application.html#a9500a77dc7c049a5c688eb855a38b08f" title="Application::getSingleton" alt="" coords="913,65,1079,92"/>
+<area shape="rect" id="node6" href="$class_gtk_graph.html#a7e6c83816be8eb95d4bfcd6836c9c965" title="GtkGraph::add" alt="" coords="729,91,836,117"/>
+<area shape="rect" id="node7" href="$class_gtk_block_bar.html#a34684cb74d5e75c3a51ab5d63750c05f" title="GtkBlockBar::setBlocks" alt="" coords="701,141,864,168"/>
+<area shape="rect" id="node8" href="$class_gtk_graph.html#a262bbea6b19c63d9cb4bd605e414dd30" title="GtkGraph::select" alt="" coords="722,192,843,219"/>
+</map>

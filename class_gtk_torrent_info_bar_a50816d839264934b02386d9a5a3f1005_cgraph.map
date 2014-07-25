@@ -1,0 +1,6 @@
+<map id="GtkTorrentInfoBar::updateInfo" name="GtkTorrentInfoBar::updateInfo">
+<area shape="rect" id="node2" href="$class_application.html#a9500a77dc7c049a5c688eb855a38b08f" title="Application::getSingleton" alt="" coords="401,5,567,32"/>
+<area shape="rect" id="node3" href="$class_gtk_graph.html#a7e6c83816be8eb95d4bfcd6836c9c965" title="GtkGraph::add" alt="" coords="217,31,324,57"/>
+<area shape="rect" id="node4" href="$class_gtk_block_bar.html#a34684cb74d5e75c3a51ab5d63750c05f" title="GtkBlockBar::setBlocks" alt="" coords="189,81,352,108"/>
+<area shape="rect" id="node5" href="$class_gtk_graph.html#a262bbea6b19c63d9cb4bd605e414dd30" title="GtkGraph::select" alt="" coords="210,132,331,159"/>
+</map>

@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['get_5fpreferred_5fheight_5ffor_5fwidth_5fvfunc',['get_preferred_height_for_width_vfunc',['../class_gtk_block_bar.html#ad18e148c0a03c18f7716418bfde55964',1,'GtkBlockBar::get_preferred_height_for_width_vfunc()'],['../class_gtk_graph.html#adeb3cda64e84c40f5451a39bc2cb610c',1,'GtkGraph::get_preferred_height_for_width_vfunc()']]],
+  ['get_5fpreferred_5fheight_5fvfunc',['get_preferred_height_vfunc',['../class_gtk_block_bar.html#af39836b75b8187a3030bc2d129c51422',1,'GtkBlockBar::get_preferred_height_vfunc()'],['../class_gtk_graph.html#afc9c5e79663cea9b4d3cf02f4480a1d7',1,'GtkGraph::get_preferred_height_vfunc()']]],
+  ['get_5fpreferred_5fwidth_5ffor_5fheight_5fvfunc',['get_preferred_width_for_height_vfunc',['../class_gtk_block_bar.html#ae42e2ace329b3fbfb39ca4b08a11cb13',1,'GtkBlockBar::get_preferred_width_for_height_vfunc()'],['../class_gtk_graph.html#abeadf06440e0458253511be521865d34',1,'GtkGraph::get_preferred_width_for_height_vfunc()']]],
+  ['get_5fpreferred_5fwidth_5fvfunc',['get_preferred_width_vfunc',['../class_gtk_block_bar.html#aa5e8fdcafbdaef1a829b88e4b42655d8',1,'GtkBlockBar::get_preferred_width_vfunc()'],['../class_gtk_graph.html#a979c043e2e971a74ad1325ea866925b5',1,'GtkGraph::get_preferred_width_vfunc()']]],
+  ['get_5frequest_5fmode_5fvfunc',['get_request_mode_vfunc',['../class_gtk_block_bar.html#ac32136f7de4e7692397a8a4a43b30e66',1,'GtkBlockBar::get_request_mode_vfunc()'],['../class_gtk_graph.html#a82dd30c098fb8442353228bcdae0a446',1,'GtkGraph::get_request_mode_vfunc()']]],
+  ['getcore',['getCore',['../class_application.html#a3341f4e07d95034e051579e010511585',1,'Application']]],
+  ['getfirstselected',['getFirstSelected',['../class_gtk_torrent_tree_view.html#acab863a6e791eb4efa0e07c064fe6e95',1,'GtkTorrentTreeView']]],
+  ['getmagneturl',['getMagnetURL',['../class_gtk_add_magnet_link_window.html#a3a2ee4874665281a8a0e0a7f49bc338e',1,'GtkAddMagnetLinkWindow']]],
+  ['getsingleton',['getSingleton',['../class_application.html#a9500a77dc7c049a5c688eb855a38b08f',1,'Application']]],
+  ['gtkaddmagnetlinkwindow',['GtkAddMagnetLinkWindow',['../class_gtk_add_magnet_link_window.html#ab2eadfc97f2d128ee8eeb4697fa317bc',1,'GtkAddMagnetLinkWindow']]],
+  ['gtkblockbar',['GtkBlockBar',['../class_gtk_block_bar.html#a79789d4b7dc6c902afcd6bda885cccc9',1,'GtkBlockBar']]],
+  ['gtkgraph',['GtkGraph',['../class_gtk_graph.html#a61be8e351027a8c3347913065389ec82',1,'GtkGraph']]],
+  ['gtkmainwindow',['GtkMainWindow',['../class_gtk_main_window.html#a39b71d0b76bc4aee50ea7d9730ab34a9',1,'GtkMainWindow']]],
+  ['gtktorrentcolumns',['GtkTorrentColumns',['../class_gtk_torrent_columns.html#ad5ccbbdc43f45a7c542861e8d5a84b17',1,'GtkTorrentColumns']]],
+  ['gtktorrentinfobar',['GtkTorrentInfoBar',['../class_gtk_torrent_info_bar.html#ab9deebe8b10f7bc9ac1af6b617bb5fb1',1,'GtkTorrentInfoBar']]],
+  ['gtktorrenttreeview',['GtkTorrentTreeView',['../class_gtk_torrent_tree_view.html#a2711883bcfc54f99c109bd15fa31d137',1,'GtkTorrentTreeView']]],
+  ['guibase',['GuiBase',['../class_gui_base.html#a9709f9e456c49c05094e7d2f96fef5f0',1,'GuiBase']]],
+  ['guigtk',['GuiGtk',['../class_gui_gtk.html#ae87c86e08f0a00d46d302b4999f25887',1,'GuiGtk']]]
+];
